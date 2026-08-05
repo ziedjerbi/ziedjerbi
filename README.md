@@ -1,16 +1,37 @@
-## Hi there 👋
+# Zied Jerbi — Ingénieur Calcul & Simulation Numérique
 
-<!--
-**ziedjerbi/ziedjerbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master Mécanique – Modélisation & Simulation Numérique | Université de Caen Normandie  
+🔬 Stage CNRS M2C – Simulation hydrodynamique côtière (XBeach, Celeris, Python)  
+📍 Caen, France | Recherche stage PFE – Février 2027
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+
+**Simulation numérique**
+`FEM/FEA` `CFD` `Éléments finis` `Dynamique des fluides` `Interaction fluide-structure`
+
+**Logiciels**
+`Ansys Mechanical` `Ansys Fluent` `COMSOL Multiphysics` `OpenFOAM` `OpenModelica`
+
+**Programmation**
+`Python` `NumPy` `Matplotlib` `MATLAB` `Julia` `Fortran` `C`
+
+**Post-traitement & données**
+`ParaView` `QGIS` `Analyse de séries temporelles` `Validation modèle-données`
+
+**CAO**
+`SolidWorks` `CATIA V5` `3DEXPERIENCE`
+
+---
+
+## 📁 Projets
+
+> 🚧 Dépôts en cours de construction — scripts Python CNRS et projets académiques à venir
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zied_Jerbi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/zied-jerbi-53944820a)
+📧 ziedjerbi2002@gmail.com
