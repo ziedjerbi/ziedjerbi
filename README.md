@@ -81,7 +81,7 @@ Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** o
 
 ## Formation
 
-🎓 **Master 2** — Mécanique, Modélisation et Simulation Numérique
+🎓 **Master** — Mécanique, Modélisation et Simulation Numérique
 Université de Caen Normandie — *2025–2027*
 
 🎓 **Licence** — Sciences Pour l'Ingénieur, Parcours Mécatronique
@@ -93,7 +93,7 @@ Université Clermont Auvergne — *2022–2025*
 
 🔬 **Stage de recherche — CNRS M2C** (UMR 6143 / IH Cantabria)
 *Laboratoire Morphodynamique Continentale et Côtière — Université de Rouen Normandie*
-Avril – Août 2026 · Caen, France
+Avril 2026 – Août 2026 (5 mois) · Rouen, France
 Simulation hydrodynamique côtière · XBeach · Celeris · Python · QGIS · Pléiades
 
 ---
