@@ -19,7 +19,7 @@ Expérience de recherche au **laboratoire CNRS M2C** (UMR 6143) sur la simulatio
 
 🎯 **Disponible pour un stage de fin d'études (PFE) de 6 mois — février à septembre 2027**
 en entreprise ou en laboratoire, dans les domaines de la simulation numérique, du calcul scientifique ou de la mécanique computationnelle.
-Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** à l'issue de la formation.
+Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** ou une **position d'ingénieur calcul** à l'issue de la formation.
 
 ---
 
@@ -32,13 +32,16 @@ Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** �
 `Ansys Mechanical` `Ansys Fluent` `COMSOL Multiphysics` `OpenFOAM` `OpenModelica` `XBeach` `Celeris`
 
 **Programmation scientifique**
-`Python` `NumPy` `Matplotlib` `SciPy` `Julia` `MATLAB` `Fortran` `C`
+`Python` `NumPy` `Matplotlib` `SciPy` `OpenCV` `Julia` `MATLAB` `Fortran` `C`
+
+**Systèmes embarqués & prototypage**
+`Arduino` `Moteur pas-à-pas` `Communication série` `Traitement d'image`
 
 **Post-traitement & données**
 `ParaView` `QGIS` `Imagerie satellitaire Pléiades` `Analyse de séries temporelles` `Validation modèle-données`
 
-**CAO**
-`SolidWorks` `CATIA V5` `3DEXPERIENCE`
+**CAO & fabrication**
+`SolidWorks` `CATIA V5` `3DEXPERIENCE` `Impression 3D` `Découpe laser`
 
 ---
 
@@ -68,13 +71,21 @@ Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** �
 
 ---
 
+### 🔬 Scanner 3D — Arduino & Python
+> Conception et réalisation d'un scanner 3D complet : design mécanique (SolidWorks, impression 3D, découpe laser), commande embarquée du moteur pas-à-pas (Arduino, machine d'état), traitement d'image et reconstruction de nuage de points 3D (Python, OpenCV).
+
+[![3d-laser-scanner-arduino-python](https://img.shields.io/badge/Repo-3d--laser--scanner--arduino--python-8E44AD?style=flat&logo=github)](https://github.com/ziedjerbi/3d-laser-scanner-arduino-python)
+`Arduino` `Python` `OpenCV` `SolidWorks` `Impression 3D` `Nuage de points 3D`
+
+---
+
 ## Formation
 
 🎓 **Master 2** — Mécanique, Modélisation et Simulation Numérique
 Université de Caen Normandie — *2025–2027*
 
-🎓 **Licence** — Mécanique
-Université Clermont-Ferrand — *2022–2025*
+🎓 **Licence** — Sciences Pour l'Ingénieur, Parcours Mécatronique
+Université Clermont Auvergne — *2022–2025*
 
 ---
 
