@@ -19,7 +19,7 @@ Expérience de recherche au **laboratoire CNRS M2C** (UMR 6143) sur la simulatio
 
 🎯 **Disponible pour un stage de fin d'études (PFE) de 6 mois — février à juillet 2027**
 en entreprise ou en laboratoire, dans les domaines de la simulation numérique, du calcul scientifique ou de la mécanique computationnelle.
-Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** ou une **position d'ingénieur calcul** à l'issue de la formation.
+Ce stage s'inscrit dans une perspective d'évolution vers une **position d'ingénieur calcul** à l'issue de la formation.
 
 ---
 
@@ -40,8 +40,8 @@ Ce stage s'inscrit dans une perspective d'évolution vers une **thèse CIFRE** o
 **Post-traitement & données**
 `ParaView` `QGIS` `Imagerie satellitaire Pléiades` `Analyse de séries temporelles` `Validation modèle-données`
 
-**CAO & fabrication**
-`SolidWorks` `CATIA V5` `3DEXPERIENCE` `Impression 3D` `Découpe laser`
+**CAO & fabrication** 
+`SolidWorks` `CATIA V5` `Impression 3D` `Découpe laser`
 
 ---
 
