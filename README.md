@@ -64,10 +64,10 @@ Ce stage s'inscrit dans une perspective d'évolution vers une **position d'ingé
 ---
 
 ### 🔥 Simulations CFD — OpenFOAM
-> Portfolio de simulations CFD par la méthode des volumes finis : conduction thermique 3D, cavité entraînée (Re=10), écoulement de Poiseuille (validation analytique profil parabolique), ascension de bulle par méthode VoF (interFoam).
+> Simulations CFD par la méthode des volumes finis : conduction thermique 3D, cavité entraînée (Re=10), écoulement de Poiseuille, ascension de bulle par méthode VoF (interFoam). Outils Python de validation : comparaison à la solution analytique, suivi de convergence, extrapolation de Richardson et indice GCI.
 
 [![cfd-openfoam-simulations](https://img.shields.io/badge/Repo-cfd--openfoam--simulations-E74C3C?style=flat&logo=github)](https://github.com/ziedjerbi/cfd-openfoam-simulations)
-`OpenFOAM` `CFD` `FVM` `ParaView` `VoF` `Navier-Stokes`
+`OpenFOAM` `CFD` `FVM` `Python` `ParaView` `VoF` `Navier-Stokes` `Validation`
 
 ---
 
