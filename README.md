@@ -17,7 +17,7 @@
 
 Stage de Master 1 au **laboratoire M2C** (CNRS UMR 6143), en collaboration avec IH Cantabria : modélisation des vagues de tempête et du run-up sur deux plages normandes (Étretat, Villers-sur-Mer), avec XBeach NH et Celeris Boussinesq.
 
-🎯 **Je cherche un stage de fin d'études de 6 mois, à partir de mars 2027**, en laboratoire ou en entreprise, en simulation numérique — de préférence en CFD, hydrodynamique côtière ou énergies marines. Je souhaite ensuite continuer dans la simulation numérique, en R&D ou en thèse.
+🎯 **Je cherche un stage de fin d'études de 6 mois, à partir de mars 2027**, en laboratoire ou en entreprise, en simulation numérique de préférence en CFD, hydrodynamique côtière ou énergies marines. Je souhaite ensuite continuer dans la simulation numérique, en R&D ou en thèse.
 
 ---
 
