@@ -79,25 +79,25 @@ Stage de Master 1 au **laboratoire M2C** (CNRS UMR 6143), en collaboration avec 
 
 ## Formation
 
-🎓 **Master** — Mécanique, parcours Modélisation et Simulation Numérique
+🎓 **Master** — Mécanique, parcours Modélisation et Simulation Numérique<br>
 Université de Caen Normandie — *2025–2027*
 
-🎓 **Licence** — Sciences pour l'Ingénieur, parcours Mécatronique
+🎓 **Licence** — Sciences pour l'Ingénieur, parcours Mécatronique<br>
 Université Clermont Auvergne — *2022–2025*
 
 ---
 
 ## Expérience
 
-🔬 **Stage de Master 1 — Simulation numérique : modélisation et validation de modèles**
-Laboratoire M2C (CNRS UMR 6143 / Université de Rouen Normandie), en collaboration avec IH Cantabria (Espagne)
-Avril – Août 2026 · Rouen
+🔬 **Stage de Master 1 — Simulation numérique : modélisation et validation de modèles**<br>
+Laboratoire M2C (CNRS UMR 6143 / Université de Rouen Normandie), en collaboration avec IH Cantabria (Espagne)<br>
+Avril – Août 2026 · Rouen<br>
 XBeach NH · Celeris · Python · QGIS · Pléiades
 
 ---
 
 ## Contact
 
-📧 zied.jerbi@etu.unicaen.fr
-📍 Caen, France
+📧 zied.jerbi@etu.unicaen.fr<br>
+📍 Caen, France<br>
 🔗 [linkedin.com/in/zied-jerbi-53944820a](https://linkedin.com/in/zied-jerbi-53944820a)
