@@ -45,6 +45,14 @@ Stage de Master 1 au **laboratoire M2C** (CNRS UMR 6143), en collaboration avec 
 
 ## Projets GitHub
 
+### 🌀 Sillage d'un monopieu offshore — OpenFOAM
+> Simulation URANS k-ω SST du sillage d'un monopieu à l'échelle 1:10 (642 882 cellules, 300 s simulées, calcul parallèle sur 4 processus), comparée aux mesures en bassin de Rogan et al. (2016). La décroissance de k simulée est trois fois plus lente que celle mesurée : écart analysé et limites documentées. Projet personnel à partir du TP CFD du M2 MSN (UNICAEN).
+
+[![openfoam-monopile-wake](https://img.shields.io/badge/Repo-openfoam--monopile--wake-0A7E8C?style=flat&logo=github)](https://github.com/ziedjerbi/openfoam-monopile-wake)
+`OpenFOAM` `URANS k-ω SST` `snappyHexMesh` `MPI` `Python` `Comparaison expérimentale`
+
+---
+
 ### 🌊 Simulation hydrodynamique côtière — Laboratoire M2C
 > Modélisation des vagues de tempête et du run-up sur deux plages normandes avec XBeach NH et Celeris Boussinesq, comparaison des deux solveurs et confrontation à des mesures indépendantes. Les données et résultats appartiennent au laboratoire M2C et à IH Cantabria : le dépôt décrit le travail, sans les publier.
 
